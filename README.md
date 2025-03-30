@@ -48,33 +48,6 @@ I’m a results-driven IT professional with **over 5 years** of experience in *d
 
 ---
 
-## 💼 Work Experience
-
-### **Network Engineer**  
-**Secured Retail Networks Inc.** | *Jun 2024 – Present*  
-- **Panda Express Refresh Bundle Project (2024-2025)**:  
-  Provisioned firewalls, switches, and APs for **3,000 retail stores** nationwide (*30–50 devices/week*).  
-- **Pacific Sunwear WWAN Project (2024-2025)**:  
-  Supervised installation of security equipment (firewalls, switches, APs, Forti Extenders) across **300 stores**.  
-- **Customer RMA Service**:  
-  Managed RMA processes, diagnosed faulty equipment, coordinated replacements, and maintained inventory.  
-
-### **Network Administrator**  
-**SK Broadband** | *Feb 2018 – Aug 2021*  
-- **ISP Internet Service Management**:  
-  Oversaw ISP services for **20 million customers**, ensuring efficient delivery and high satisfaction.  
-- **SKB Media Content Services**:  
-  Managed **5,000 servers** hosting Netflix and other media content, delivering *24/7 uninterrupted service*.  
-
-### **IT Specialist (Contract)**  
-**Doosan** | *Aug 2014 – Feb 2015*  
-- Installed and maintained IT systems, provided technical support, and ensured security via firewalls and encryption.  
-
-### **IT Specialist (Contract)**  
-**Samsung SDI** | *Feb 2014 – Jun 2014*  
-- Managed network configurations, performed system updates, and supported IT infrastructure upgrades.  
-
----
 
 ## 🎓 Education & Certifications
 
@@ -88,21 +61,6 @@ I’m a results-driven IT professional with **over 5 years** of experience in *d
 
 ---
 
-## 📈 Projects
-
-1. **Panda Express Refresh Bundle**  
-   - Provisioned and deployed network equipment for **3,000 stores** nationwide.  
-   - *Tech Stack*: Cisco switches, FortiGate firewalls, wireless APs.  
-
-2. **Pacific Sunwear WWAN**  
-   - Led installation of retail security equipment across **300 stores**.  
-   - *Tech Stack*: Forti Extenders, Cisco firewalls, switches.  
-
-3. **SKB Media Content Delivery**  
-   - Managed **5,000+ servers** for 24/7 media streaming (Netflix, TV shows, movies).  
-   - *Tech Stack*: Cisco Nexus, Linux-based servers.  
-
----
 
 ## 📬 Contact Me
 
