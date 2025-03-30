@@ -23,7 +23,7 @@ I’m a results-driven IT professional with **over 5 years** of experience in *d
 - **Expertise**:  
   - Network troubleshooting and performance optimization  
   - Firewall management (*Palo Alto*, *Cisco ASA*, *Juniper SRX*, *FortiGate*)  
-  - Cisco technologies (*ACI*, *UCS*, *NXOS*, *SD-WAN*, *Nexus*, *Catalyst*)  
+  - Cisco technologies (*ACI*, *UCS*, *SD-WAN*, *Nexus*, *Catalyst*)  
   - Automation (*Python*, *RESTCONF*, *Bash*)  
   - Virtual Machine Manager (IAM) and secure system management  
 - **Achievements**: Maintained **99.8% network reliability** in large-scale environments  
