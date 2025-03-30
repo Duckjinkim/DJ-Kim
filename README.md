@@ -66,6 +66,8 @@ I’m a results-driven IT professional with **over 5 years** of experience in *d
 
 Feel free to reach out for collaboration, networking, or project opportunities!  
 - **Email**: [ccie68155@gmail.com](mailto:ccie68155@gmail.com)  
-- **Phone**: 562-266-6684  
+- **Phone**: 562-266-6684
+- **Linkin**: https://www.linkedin.com/in/dj-duckjin-kim-55727827b/
+- **Blog**:  https://ccie68155.tistory.com/
 
 ---
